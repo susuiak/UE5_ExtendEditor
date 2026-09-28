@@ -1,0 +1,24 @@
+# UE 编译产物
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# 插件编译产物
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# 其他
+*.log
+*.pdb
+*.obj
+*.exe

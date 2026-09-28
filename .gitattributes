@@ -1,0 +1,14 @@
+# UE 资产文件按二进制处理
+*.uasset binary
+*.umap binary
+*.upk binary
+*.udk binary
+
+# 图片
+*.png binary
+*.jpg binary
+*.tga binary
+
+# 字体
+*.ttf binary
+*.otf binary
